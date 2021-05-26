@@ -1,0 +1,122 @@
+sample_id,sample_name,sample_description,project_id
+JG18OPX001,Copper,Copper wire cut into bits. Thinner than JG18OPX002.,JG18OPX
+JG18OPX068,Gypsum,"Daisy Bed Gypsum; Kirkby Thore, Cumbria, UK",JG18OPX
+JG18OPX069,Azurite,"Azurite; Toussit, Morocco",JG18OPX
+JG18OPX070,Nepheline,"Nepheline and Black Garnet; Tafilalet, Morocco",JG18OPX
+JG18OPX071,Corundum,Corundum (Ruby); Madagascar,JG18OPX
+JG18OPX072,Skutterudite,"Skutterudite; Bou Azzer District, Morocco",JG18OPX
+JG18OPX073,Pyrite,Pyrite,JG18OPX
+JG18OPX074,Corundum,Blue Corundum (Sapphire); Madagascar,JG18OPX
+JG18OPX075,Skarn,Unknown - Possible skarn? Thin section made,JG18OPX
+JG18OPX076,Sodalite,Sodalite,JG18OPX
+JG18OPX077,Corundum,Blue Corundum (Sapphire); Madagascar,JG18OPX
+JG18OPX078,Emerald,"Emerald, Brazil",JG18OPX
+JG18OPX079,Fuchsite Schist,Fuchsite Schist; Brazil,JG18OPX
+JG18OPX080,Celestine,Celestine,JG18OPX
+JG18OPX081,Cinnabar,"Cinnabar, Arizona, USA  -  CONTAINS MERCURY!!!!!!",JG18OPX
+OD18_MO.01,Molybdenum,Molybdenum standard.,OD18MO
+SD18MT01,Magnetite,Grains of Magnetite posted from Mike Petronis.,SD18
+SD18PT01,Pyrrhotite,Pyrrhotite mineral standard.,SD18
+SDHM01,Hematite,Hematite (haematite) mineral standard.,SD18
+JG18OPX002A,Copper,Sub-sample of copper wire cut into bits. Thicker than JG18OPX001.,JG18OPX
+JG18OPX004,Malachite,"Malachite; Rio Tinto, Spain. Collected by Joshua Grinham. April, 2018.",JG18OPX
+JG18OPX009,Iron Sulphate Heptahydrate,Iron Sulphate Heptahydrate; this sample will change it’s magnetic properties over time as a result of changing hydration state.,JG18OPX
+JG18OPX016,Wolframite,"STAUGE11618: Wolframite. Black opaque crystal which is very dense and heavy for the size of specimen. Tabular crystal habit with sub-metallic lustre. One perfect cleavage visible. One large specimen and several smaller fragments present. From: Plateau, Nigeria.",JG18OPX
+JG18OPX029,Pyrite,"Pyrite cube; Navajun (La Rioja), Spain.",JG18OPX
+JG18OPX115,,,JG18OPX
+JG18OPX021,Feldspars,"STAUGE11424: ‘Large box of 1-2cm sized feldspars of varyign white, pink, red, yellow and grey colouring and some displaying Carlsbed twinning. Some samples weathered so badly they are turning into clay and are very brittle.’ Collection Location: Malaya.",JG18OPX
+JG18OPX036,Galena,Galena and Vein Quartz,JG18OPX
+JG18OPX037,Copper,"Native Copper; Keveenaw, Michigan, U.S.A",JG18OPX
+JG18OPX038,Pyrrhotite,"Pyrrhotite; Evje, S. Norway",JG18OPX
+JG18OPX039,Chalcocite,Chalcocite; Mexico,JG18OPX
+JG18OPX051,Bornite,Bornite (Peacock Ore); Mexico.,JG18OPX
+JG18OPX059,Bornite,"Bornite (Peacock Ore); Congo, Africa.",JG18OPX
+JG18OPX061,Chalcopyrite,Chalcopyrite; Morocco,JG18OPX
+JG18OPX082,Cinnabar,"Cinnabar; Almadén, Spain.",JG18OPX
+JG18OPX122,,,JG18OPX
+JG18OPX002B,Copper,Coiled length of copper wire of the same type as JG18OPX002A. ,JG18OPX
+JG18OPX003,Sulphur,"Elemental Sulphur; Rio Odiel Remediation site, Spain. Collected by Joshua Grinham, April 2018.",JG18OPX
+JG18OPX005,Garnet,"Garnet from Ruby Bay in Elie, Fife. Collected by Joshua Grinham, June 2018.",JG18OPX
+JG18OPX006,Molybdenite,Twin hexagonal molybdenite crystal; location unknown.,JG18OPX
+JG18OPX007,Magnetite,"STAUGE11815 Record:
+
+	Black and shiny crystals of magnetite up to ~2cm. Black streak with a metallic lustre. Ferromagnetic. Crystal faces show striated faces, often with a bluish iridescence. Single octahedral cluster has been removed for analysis.
+	Collected 1849.",JG18OPX
+JG18OPX008,Quartz,Lab Crushing Quartz - Sample taken from the quartz used to clean the pestle and mortar.,JG18OPX
+JG18OPX010,Pyrrhotite,"STAUGE10508:
+	‘Nickeliferous pyrrhotite from Creighton Mine (NR) Near Sudbury, Ontario, CANADA’",JG18OPX
+JG18OPX011,Cassiterite,"STAUGE11578:
+
+	Small pebbles/granules of equally same shpaed cassiterite. Varying in brown, grey and red in colour with a vitreous lustre. (measurement is an average of the grains)
+
+	Location: Banke, Bisichi Tin Co., Nigeria",JG18OPX
+JG18OPX012,Pyrite,Pyrite,JG18OPX
+JG18OPX013,Hematite,"STAUGE11731:
+
+	Collection of some 7 hematite crystals with a metallic crystals. Crystals are black but metallic lustre is strong. Hexagonal crystal system apparent in some examples.
+
+	Collected: 1849",JG18OPX
+JG18OPX014,Mica,"STAUGE11246:
+
+	<0.5cm thick books of vitreous/pearly/resinous bronze [Biotite], Mica. Shows micaceous, sheet cleavage. [Light colour could be due to alteration].
+	
+	Question whether this is actually biotite mica or not. 2x bags as stuart suggested given a sample to Batzi for analysis.
+	",JG18OPX
+JG18OPX015,Talc,"STAUGE11235:
+
+	Pale green, silky/waxy Talc mineral. Very soft - scratches with fingernail. Talc seems foliated. Contains small amounts of a hard, black mineral with a lead grey streak.",JG18OPX
+JG18OPX017,Cassiterite,"STAUGE11572:
+
+	Small broken samples of cassiterite, black/ brown in colours with a vitreous lustre. Largest sample is smooth with no defined prismatic crystals (possibly due to weathering) and is also intergrown with translucent red crystals.
+
+	Locality: Shona Hill, Bauchi Province, Nigeria",JG18OPX
+JG18OPX018,,"STAUGE11620:
+
+	Small fragments mostly weathered so display massive crystal habit. Orange cream in colour and translucent in transparency. Specimens have vitreous lustre, uneven fracture surface and very dense and heavy for size of specimen. 	From Nigeria",JG18OPX
+JG18OPX019,Pyrite,"Rotted’ Pyrite; Canutillos, Bolivia",JG18OPX
+JG18OPX020,Kyanite,Kyanite.,JG18OPX
+JG18OPX022,Feldspar,"STAUGE11424:
+
+	‘Large box of 1-2cm sized feldspars of varyign white, pink, red, yellow and grey colouring and some displaying Carlsbed twinning. Some samples weathered so badly they are turning into clay and are very brittle.’ 
+	Collection Location: Malaya (presumably, modern day Singapore or somewhere in old British Malaya?)",JG18OPX
+JG18OPX023,Magnetite,Magnetite; Brazil,JG18OPX
+JG18OPX024,Magnetite,Magnetite; Brazil,JG18OPX
+JG18OPX025,Vanadinite,Vanadinite; Morocco,JG18OPX
+JG18OPX026,Apatite,Apatite; Morocco,JG18OPX
+JG18OPX027,Rutile,Apatite with Rutile; Morocco,JG18OPX
+JG18OPX028,Fluorite,Fluorite (Octahedra); China,JG18OPX
+JG18OPX030,Garnet,"Almandine garnet; Kuiu Island, SE Alaska",JG18OPX
+JG18OPX031,Muscovite,"STAUGE12144:
+
+	A collection of large 10''s of cm scale muscovite mica sheets. Soft ~2, with perfect basalt cleavage. Silvery-white in colour.
+
+	Pensylvania",JG18OPX
+JG18OPX032,Fuchsite,"Fuchsite, Brazil",JG18OPX
+JG18OPX033,Granite,Seritised granite; Cairngorm,JG18OPX
+JG18OPX034,Granite,"Chloritised granite; Alvie Quarry, Scotland",JG18OPX
+JG18OPX035,Granite,"Micro-granite; Alvie Quarry, Scotland",JG18OPX
+JG18OPX040,Goethite,"Goethite; Tishka, Morocco",JG18OPX
+JG18OPX041,Pyrite,"Pyrite cube; Navajun (La Rioja), Spain",JG18OPX
+JG18OPX042,Amazonite,Amazonite; Russia,JG18OPX
+JG18OPX043,Emerald,"Emerald, Brazil",JG18OPX
+JG18OPX044,Amber,"Amber (eocene epoch, 44MYA); Baltic Coast",JG18OPX
+JG18OPX045,Pyrite,"Pyrite cube; Navajun (La Rioja), Spain",JG18OPX
+JG18OPX046,Garnet,Almandine garnet; China,JG18OPX
+JG18OPX047,Tourmaline,Massive black tourmaline; Brazil,JG18OPX
+JG18OPX048,Amber,"Black Amber; Sarawak, Borneo",JG18OPX
+JG18OPX049,Tourmaline,"Black tourmaline, Madagascar",JG18OPX
+JG18OPX050,Talc,"Talc, Egypt",JG18OPX
+JG18OPX052,Wavellite,"Wavellite, Mexico",JG18OPX
+JG18OPX053,Aragonite,"Aragonite; Sefrou Fes, Boulemane Region, Morocco",JG18OPX
+JG18OPX054,Smithsonite,"Smithsonite; Sheshodonell East Mine, The Burren, Co. Clare",JG18OPX
+JG18OPX055,Orthoclase,"Orthoclase Feldspar; Iveland, South Norway",JG18OPX
+JG18OPX056,Apophhyllite,"Apophhyllite, Pune, India",JG18OPX
+JG18OPX057,Daisy Bed Gypsum,"Daisy Bed Gypsum; Kirkby Thore, Cumbria, UK",JG18OPX
+JG18OPX058,Graphite,Graphite; Sri Lanka,JG18OPX
+JG18OPX060,Kaolinite,"Kaolinite; St. Austell, Cornwall",JG18OPX
+JG18OPX062,Apatite,Apatite; Brazil,JG18OPX
+JG18OPX063,Petalite,Petalite; Zimbabwe,JG18OPX
+JG18OPX064,Magnesite,Magnesite; Greece,JG18OPX
+JG18OPX065,Kaolinite,"Kaolinite; St. Austell, Cornwall",JG18OPX
+JG18OPX066,Galena,"Galena; Weardale, County Durham, UK",JG18OPX
+JG18OPX067,Garnet,"Almandine Garnet; Fauske, North Norway",JG18OPX
